@@ -1,7 +1,4 @@
-//CSC 123 base code for hierarchical duck lab
-//by ZJ Wood - Fall 2011
-//TODO: read through the code to make sure you understand what it is doing
-//TODO: add code in order to make the duck have feet that also walk as it animates
+//TODO: add code in order to make the duck have feet that also walk as it animates maybe?
 
 PVector Dloc;
 PVector dir;
